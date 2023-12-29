@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Fulfillment - Code to Cloud - AWS MetaAge ChiHung
+          Fulfillment - Code to Cloud - AWS MetaAge ChiHung - demo session 1
         </a>
       </header>
     </div>
